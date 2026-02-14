@@ -1,0 +1,8 @@
+
+Github : https://github.com/danlee-dev
+
+포트폴리오 : https://danlee-dev.github.io/
+
+Figma 발표자료 제작 : https://www.figma.com/design/PSQxpiB7qmRPjZufAft76z/sw%EC%9D%B8%EC%9E%AC%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_%EC%9D%B8%ED%93%A8%EC%A0%84%ED%8C%80?node-id=79-2991&t=pbEgCXjR4E95qeli-1
+
+Figma 프로메테우스 데모데이 판넬 제작 : https://www.figma.com/design/TkSd1tg962h3mqw6RvRdFT/Prometheus-Team4-DiffuserPlanet?node-id=197-1208&t=0uY1BhRCp0NCmnK1-1
